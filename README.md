@@ -22,7 +22,11 @@ This project is a machine learning-based web application that predicts diseases 
 - Features: Binary-encoded symptoms (e.g., itching, skin_rash, shivering, etc.)
 
 - Label: prognosis (disease)
+# 🖥️ Screenshots
+🔹 Input Page 
+Users input symptoms 
 
+![1st page](img.png)
 # 🗂 Directory Structure
 drug-recommendation/
 │
