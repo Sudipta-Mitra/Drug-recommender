@@ -27,19 +27,7 @@ This project is a machine learning-based web application that predicts diseases 
 Users input symptoms 
 
 ![1st page](img.png)
-# 🗂 Directory Structure
-drug-recommendation/
-│
-├── app.py                  # Flask app
-├── models/
-│   └── svm_model.pkl       # Pickled trained SVM model
-├── templates/
-│   └── index.html          # Frontend form for symptom input
-├── static/
-│   └── style.css           # Optional: custom styles
-├── dataset/
-│   └── symptoms.csv        # Input training dataset
-└── README.md               
+           
 # 🧑‍💻 Technologies Used
 - Python
 
