@@ -1,4 +1,4 @@
-# 🩺 Drug Recommendation System using SVM
+# 🩺 Drug Recommendation System using SVM.
 This project is a machine learning-based web application that predicts diseases from a list of symptoms and recommends drugs or treatment advice. It uses Support Vector Machine (SVM) as the core classifier and is served via a lightweight Flask backend.
 
 # ✅ Features
