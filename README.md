@@ -6,7 +6,7 @@ This project is a machine learning-based web application that predicts diseases 
 
 - Recommends appropriate medications or treatments
 
-- Built using SVM with accuracy of 100%
+- Built using SVM with accuracy of 96%
 
 - Web interface using Flask
 
