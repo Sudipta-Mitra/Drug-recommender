@@ -39,3 +39,10 @@ Users input symptoms
 
 - Pickle
 
+## 👨‍💻 Author
+
+Sudipta Mitra
+
+LinkedIn: [[ LinkedIn ](https://www.linkedin.com/in/sudipta-mitra-81b349201)]
+
+GitHub: [[ GitHub](https://github.com/Sudipta-Mitra)]
